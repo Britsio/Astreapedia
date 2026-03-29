@@ -8,4 +8,5 @@
 Benvenuti nella Astreapedia, ammesso riesca a farla funzionare prima o poi.
 
 Indice:
-[[ASTREAPEDIA/CAMPAGNA/ATTO I°/EP 1 ~Fuga da Vecchia Gilda\|EP 1 ~Fuga da Vecchia Gilda]]
+[[CAMPAGNA/ATTO I°/EP 1 ~Fuga da Vecchia Gilda\|EP 1 ~Fuga da Vecchia Gilda]]
+[[CAMPAGNA/ATTO I°/EP 2 ~Le Miniere di Mizarto\|EP 2 ~Le Miniere di Mizarto]]

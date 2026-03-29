@@ -6,4 +6,4 @@
 
 Benvenuti nella Astreapedia, ammesso riesca a farla funzionare prima o poi.
 
-[[MISCELLAEA\|MISCELLAEA]]
+[[SINTASSI MARKDOWN\|SINTASSI MARKDOWN]]

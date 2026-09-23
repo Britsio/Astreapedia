@@ -68,4 +68,4 @@ _Cuspide Letale_
 
 ![Piastra del Minatore.jpg](/img/user/X%20-%20Immagini/Piastra%20del%20Minatore.jpg)_Piastra del Minatore_
 
-[[index\|↩️ Torna all'indice]]
+[[index\|↩️ Torna all'indice]] - [[CAMPAGNA/ATTO I°/EP 1 ~Fuga da Vecchia Gilda\|⬅️ Vai all'EP 1]]

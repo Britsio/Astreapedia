@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campagna/atto-i/ep-2-le-miniere-di-mizarto/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/campagna/atto-i/ep-2-le-miniere-di-mizarto/","noteIcon":"","dg-note-properties":{}}
 ---
 
 

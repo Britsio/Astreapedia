@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/x-immagini/sintassi-markdown-1/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/x-immagini/sintassi-markdown-1/","noteIcon":"","dg-note-properties":{}}
 ---
 
 

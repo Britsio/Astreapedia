@@ -5,14 +5,14 @@
 ![alt text](https://i.imgur.com/jYR8wIb.jpeg)
 
 
-# <center> Benvenuti nella Astreapedia! 🌟</center>
+# Benvenuti nella Astreapedia! 🌟
  
-<center> <i>Qui troverete tutte le informazioni ottenute durante la campagna: resoconto sessioni, npc, luoghi, oggetti e quant'altro.</i> </center>
+_Qui troverete tutte le informazioni ottenute durante la campagna: resoconto sessioni, npc, luoghi, oggetti e quant'altro.
 
-<center>### 📜 Cronache delle Sessioni</center>
+### 📜 Cronache delle Sessioni
 
-<center>[[CAMPAGNA/ATTO I°/EP 1 ~Fuga da Vecchia Gilda\|EP 1 ~Fuga da Vecchia Gilda]]⛓️</center>
-<center>[[CAMPAGNA/ATTO I°/EP 2 ~Le Miniere di Mizarto\|EP 2 ~Le Miniere di Mizarto]]💎</center>
+[[CAMPAGNA/ATTO I°/EP 1 ~Fuga da Vecchia Gilda\|EP 1 ~Fuga da Vecchia Gilda]]
+[[CAMPAGNA/ATTO I°/EP 2 ~Le Miniere di Mizarto\|EP 2 ~Le Miniere di Mizarto]]💎
 
 
 

@@ -7,7 +7,7 @@
 
 # <center> Benvenuti nella Astreapedia! 🌟</center>
  
-<center> _Qui troverete tutte le informazioni ottenute durante la campagna: resoconto sessioni, npc, luoghi, oggetti e quant'altro._ </center>
+<center> <i>Qui troverete tutte le informazioni ottenute durante la campagna: resoconto sessioni, npc, luoghi, oggetti e quant'altro.</i> </center>
 
 <center>### 📜 Cronache delle Sessioni</center>
 

@@ -57,4 +57,4 @@ Prima di riuscire ad aprire i doppi portoni però, un enorme _Vermeiena_ si pale
 
 _Vermeiena_
 
-[[index\|↩️ Torna all'indice]]
+[[index\|↩️ Torna all'indice]] - [[CAMPAGNA/ATTO I°/EP 2 ~Le Miniere di Mizarto\|➡️ Vai all'EP 2]]

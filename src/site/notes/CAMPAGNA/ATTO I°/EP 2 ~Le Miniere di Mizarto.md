@@ -67,3 +67,5 @@ _Cuspide Letale_
 ![Piccone di Mizarto.jpg](/img/user/X%20-%20Immagini/Piccone%20di%20Mizarto.jpg)_Piccone di Mizarto_
 
 ![Piastra del Minatore.jpg](/img/user/X%20-%20Immagini/Piastra%20del%20Minatore.jpg)_Piastra del Minatore_
+
+[[index\|↩️ Torna all'indice]]

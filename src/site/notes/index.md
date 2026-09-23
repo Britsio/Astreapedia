@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/index/","noteIcon":"","dg-note-properties":{"Title":"Astrea"}}
 ---
 
 

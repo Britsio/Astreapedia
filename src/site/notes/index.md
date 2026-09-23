@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/index/","noteIcon":"","dg-note-properties":{}}
 ---
 
-![alt text](https://i.imgur.com/VYg7PjZ.jpeg)
+![alt text](https://i.imgur.com/jYR8wIb.jpeg)
 
 
 # Benvenuti nella Astreapedia! 🌟

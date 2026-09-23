@@ -46,6 +46,8 @@ Ripercorso l'intero piano e raggiunga la sezione nord-ovest, il gruppo raggiunge
 
 ## _Galleria_
 
+<details> <summary>🪱 Vermeiena</summary> <img src="[obsidian://open?vault=ASTREAPEDIA&file=X%20-%20Immagini%2FCassaforte%20del%20Deposito.png)" width="400" alt="Carrion Crawler"> </details>
+
 ![Cassaforte del Deposito.png](/img/user/X%20-%20Immagini/Cassaforte%20del%20Deposito.png)
 _Cassaforte Nanica del Deposito_
 

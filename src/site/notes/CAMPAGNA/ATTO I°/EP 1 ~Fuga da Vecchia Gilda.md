@@ -52,9 +52,6 @@ Recuperate delle Runie, valuta nanica, dall'ufficio, il quintetto prosegue la di
 Prima di riuscire ad aprire i doppi portoni però, un enorme _Vermeiena_ si palesa attaccando il party. Il combattimento è feroce ma il gruppo riesce ad avere presto o tardi la meglio. Incerti su cosa possa comunque attenderli oltre le porte di quelle che Sirne aveva riferito essere le _Miniere di Mizarto,_ il gruppo cerca riparo all'interno dell'ufficio del caposquadra per concedersi un riposo prima di riprendere la fuga.
 
 ## _Galleria_
-
-![](https://wa-cdn.nyc3.digitaloceanspaces.com/user-data/production/a4b6a4e3-3339-4bf9-a776-fc7650919314/uploads/images/9faabd164f606faa3862adb9a22970ef.jpeg)
-
-_Vermeiena_
+<details> <summary>🪱 Vermeiena</summary> <img src="https://www.aidedd.org/dnd/images/carrion-crawler.jpg" width="400" alt="Carrion Crawler"> </details>
 
 [[index\|↩️ Torna all'indice]] - [[CAMPAGNA/ATTO I°/EP 2 ~Le Miniere di Mizarto\|➡️ Vai all'EP 2]]
